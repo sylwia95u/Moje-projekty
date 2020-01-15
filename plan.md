@@ -20,4 +20,8 @@
  ## 4. Tematy projektów:
  
  * odliczanie dni do świąt
- *
+ * podstawowy kalkulator
+ * obliczanie pola trójkąta z wzoru Herona
+ * obliczanie równania kwadratowego
+ * quiz
+ * zagadka - zgadnij liczbę
